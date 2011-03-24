@@ -1,0 +1,21 @@
+Whois Shell - Copyright (C) 2011 Thilo-Alexander Ginkel.
+
+Overview
+--------
+Whois Shell is a lightweight shell-style command interpreter written in Python to perform domain name queries.
+
+Its source code is available online at:
+  https://github.com/ginkel/whois-shell
+
+Prerequisites
+-------------
+In order to use whois-shell.py, you need a patched version of pywhois, which is available at:
+  https://github.com/ginkel/pywhois
+
+License
+-------
+Whois Shell is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+Whois Shell is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Whois Shell.  If not, see <http://www.gnu.org/licenses/>.
